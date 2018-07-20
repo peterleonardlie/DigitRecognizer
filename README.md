@@ -1,4 +1,4 @@
-# Digit Recognizer
+# Digit Recognizer - Kaggle Competition (Getting Started level)
 
 Learn computer vision fundamentals with the famous MNIST data
 
