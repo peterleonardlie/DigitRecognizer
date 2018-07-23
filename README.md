@@ -2,6 +2,20 @@
 
 Learn computer vision fundamentals with the famous MNIST data
 
+##### Rank 143 of 2634 Competitors with score of 0.99728 (top 6%)
+
+##### libraries used:
+-   sklearn
+-   keras
+-   pandas
+-   numpy
+
+##### techniques:
+-   convolutional neural network with 15 layers
+-   ensemble learning
+-   adam optimization algorithm
+
+
 ##### Before we start, I minimized the training sets into 300+ rows, so that my local computer can access, but during the kaggle's competition the program achieve 0.997 with the real training sets.
 
 ##### competition link : https://www.kaggle.com/c/digit-recognizer
